@@ -1,7 +1,7 @@
 import requests
 import json
 
-SERVICE_KEY = "75675a79636b6f693531756a4f7066" 
+SERVICE_KEY = "" 
 ENDPOINT = "http://openapi.seoul.go.kr:8088"
 DATA_TYPE = "json"
 SERVICE_NAME = "서울시 에코마일리지 에너지사용량 통계정보(회원유형별)"
